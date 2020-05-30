@@ -2,10 +2,7 @@
 Library Database Management System
 This is Python Library Management System. It can perform mulitiple tasks. To make this run in your pc/laptop you need to download few dependencies:
 
- numpy
- pandas
- matplotlib
- tkinter
+numpy , pandas , matplotlib , tkinter
 use pip install to download these dependencies
 
 This project can run in offline mode. There is no 
